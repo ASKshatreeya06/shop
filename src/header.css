@@ -1,0 +1,39 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+nav{
+  display: flex;
+   border: solid 1px black;
+   overflow:hidden;
+   justify-content: space-between;
+ 
+}
+#header img{
+  margin-left: 1vh;
+}
+#header{
+  display: flex;
+}
+ul{
+  list-style-type: none;
+  
+}
+li{
+  float: left;
+  margin: 1vh;
+}
+.btn{
+ 
+margin: 2vh;
+}
+.btn a{
+  text-decoration: none;
+  margin: 0 2vh;
+}
+
+#header ul {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}

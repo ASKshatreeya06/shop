@@ -1,0 +1,26 @@
+.login{
+    display: flex;
+    background-color: rgba(121, 126, 126, 0.459);
+    height: 450px;
+    width: 300px;
+    border: solid 2px black;
+    flex-direction: column;
+    margin: auto;
+}
+.login h2{
+    text-align: center;
+    margin: 3vh;
+}
+form{
+    margin:3vh;
+}
+form input{
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+}
+form hr{
+    margin: 2vh 0;
+}
+form p{
+    margin-top: 25%;
+}

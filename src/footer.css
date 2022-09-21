@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+footer{
+    display: flex;
+    /* border: solid 1px black; */
+
+    text-align: center;
+    padding-left: 15%;
+    background-color: rgb(146, 150, 152);
+}
+footer div img{
+    margin-top: 2vh;
+    
+}
+
+.footer1 a{
+    text-decoration: none;
+}
+footer div{
+    margin: 5vh;
+}
+.footer1 ul{
+    display: flex;
+    flex-direction: column;
+    list-style-type: none;
+}

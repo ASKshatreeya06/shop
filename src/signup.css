@@ -1,0 +1,15 @@
+.signup{
+    height: 450px;
+    width: 300px;
+    border: solid 2px black;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    background-color: rgba(105, 105, 105, 0.496);
+}
+.signup h2{
+    margin: auto;
+}
+.signup button{
+    margin: auto;
+}
